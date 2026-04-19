@@ -1,0 +1,16 @@
+{
+  "api_id": your api here,
+  "api_hash": "your hash here (my.telegram.org)",
+  "session_name": "random shit", 
+  "mappings": [
+    {
+       "source":  "the ID of your channel (use kotatogram)",
+       "target":  "the id of the channel you want to copy to"
+    }
+    
+  ],
+  "initial_sync": true,
+  "sleep_between": 0.2
+}
+
+
